@@ -1,0 +1,36 @@
+{
+  "name": "marketplace",
+  "version": "1.0.0",
+  "description": "Local Marketplace App",
+  "license": "ISC",
+  "author": "Raphael Lorenzo Go",
+  "type": "commonjs",
+  "main": "app.js",
+  "scripts": {
+    "start:": "npx nodemon server.js",
+    "start:prod": "cross-env NODE_ENV=production node server.js",
+    "debug": "ndb server.js"
+  },
+  "dependencies": {
+    "bcryptjs": "^3.0.3",
+    "cookie-parser": "^1.4.7",
+    "dotenv": "^17.3.1",
+    "express": "^4.21.1",
+    "express-mongo-sanitize": "^2.2.0",
+    "express-rate-limit": "^8.5.1",
+    "helmet": "^8.1.0",
+    "hpp": "^0.2.3",
+    "jsonwebtoken": "^9.0.3",
+    "morgan": "^1.10.1",
+    "nodemailer": "^8.0.7",
+    "nodemon": "^3.1.14",
+    "slugify": "^1.6.8",
+    "validator": "^13.15.35",
+    "xss-clean": "^0.1.4"
+  },
+  "devDependencies": {
+    "cross-env": "^10.1.0",
+    "mongodb": "^7.1.0",
+    "mongoose": "^8.1.1"
+  }
+}

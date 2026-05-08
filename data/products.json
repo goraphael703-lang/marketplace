@@ -1,0 +1,157 @@
+[
+  {
+    "name": "Wooden Study Desk with Drawer",
+    "price": 1850,
+    "category": "Furniture",
+    "location": "Batangas City",
+    "description": "Sturdy wooden study desk with one drawer.",
+    "seller": "Maria Santos",
+    "postedDate": "2025-01-10",
+    "premiumProducts": false
+  },
+  {
+    "name": "Samsung Galaxy Buds (Used)",
+    "price": 800,
+    "category": "Electronics",
+    "location": "Lipa City",
+    "description": "Used Galaxy Buds in excellent condition.",
+    "seller": "Juan Dela Cruz",
+    "postedDate": "2025-02-05",
+    "premiumProducts": false
+  },
+  {
+    "name": "Handmade Tote Bags",
+    "price": 350,
+    "category": "Accessories",
+    "location": "Tanauan City",
+    "description": "Handcrafted tote bags made from cotton.",
+    "seller": "Ana Reyes",
+    "postedDate": "2025-01-20",
+    "premiumProducts": false
+  },
+  {
+    "name": "Second-Hand Android Smartphone",
+    "price": 850,
+    "category": "Electronics",
+    "location": "Calamba City",
+    "description": "Used Android phone, 64GB storage, 4GB RAM.",
+    "seller": "Miguel Dela Cruz",
+    "postedDate": "2025-03-01",
+    "premiumProducts": true
+  },
+  {
+    "name": "Preloved Wooden Bookshelf",
+    "price": 2700,
+    "category": "Furniture",
+    "location": "San Pablo City",
+    "description": "5-layer wooden bookshelf in good condition.",
+    "seller": "Rosa Villanueva",
+    "postedDate": "2025-02-14",
+    "premiumProducts": false
+  },
+  {
+    "name": "Mechanical Keyboard (TKL)",
+    "price": 900,
+    "category": "Electronics",
+    "location": "Calamba City",
+    "description": "TKL keyboard with blue switches, lightly used.",
+    "seller": "Carlo Mendoza",
+    "postedDate": "2025-01-28",
+    "premiumProducts": false
+  },
+  {
+    "name": "Crocheted Bucket Hat",
+    "price": 250,
+    "category": "Accessories",
+    "location": "Lipa City",
+    "description": "Handmade crocheted bucket hat, one size fits most.",
+    "seller": "Liza Fernandez",
+    "postedDate": "2025-03-10",
+    "premiumProducts": false
+  },
+  {
+    "name": "Electric Standing Fan",
+    "price": 950,
+    "category": "Appliances",
+    "location": "Batangas City",
+    "description": "Standing fan with 3 speed settings, works perfectly.",
+    "seller": "Roberto Garcia",
+    "postedDate": "2025-02-20",
+    "premiumProducts": false
+  },
+  {
+    "name": "College Textbooks Bundle",
+    "price": 600,
+    "category": "Books",
+    "location": "Tanauan City",
+    "description": "Bundle of 5 college textbooks, Math and Science.",
+    "seller": "Patricia Lim",
+    "postedDate": "2025-01-15",
+    "premiumProducts": false
+  },
+  {
+    "name": "Folding Study Table",
+    "price": 480,
+    "category": "Furniture",
+    "location": "San Pablo City",
+    "description": "Compact folding table, portable and lightweight.",
+    "seller": "Eduardo Cruz",
+    "postedDate": "2025-02-08",
+    "premiumProducts": false
+  },
+  {
+    "name": "Vintage Wristwatch",
+    "price": 1750,
+    "category": "Accessories",
+    "location": "Lipa City",
+    "description": "Vintage analog watch in good working condition.",
+    "seller": "Jose Macaraeg",
+    "postedDate": "2025-03-05",
+    "premiumProducts": true,
+    "priceDiscount": 650
+  },
+  {
+    "name": "Fiction Novels Collection",
+    "price": 400,
+    "category": "Books",
+    "location": "Batangas City",
+    "description": "Set of 4 fiction novels, lightly read, great condition.",
+    "seller": "Claire Santos",
+    "postedDate": "2025-01-25",
+    "premiumProducts": false,
+    "priceDiscount": 350
+  },
+  {
+    "name": "Portable Electric Fan",
+    "price": 550,
+    "category": "Appliances",
+    "location": "Calamba City",
+    "description": "Mini USB-powered fan, great for desks and travel.",
+    "seller": "Mark Ramos",
+    "postedDate": "2025-02-18",
+    "premiumProducts": false,
+    "priceDiscount": 500
+  },
+  {
+    "name": "Denim Jacket (Used)",
+    "price": 650,
+    "category": "Clothing",
+    "location": "Tanauan City",
+    "description": "Preloved denim jacket, size M, still in great shape.",
+    "seller": "Nina Torres",
+    "postedDate": "2025-03-12",
+    "premiumProducts": false,
+    "priceDiscount": 600
+  },
+  {
+    "name": "Printed T-Shirt Bundle",
+    "price": 300,
+    "category": "Clothing",
+    "location": "San Pablo City",
+    "description": "Bundle of 3 printed tees, assorted designs, size L.",
+    "seller": "Kevin Bautista",
+    "postedDate": "2025-03-18",
+    "premiumProducts": false,
+    "priceDiscount": 250
+  }
+]
